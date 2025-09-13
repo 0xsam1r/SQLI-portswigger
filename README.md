@@ -13,6 +13,9 @@ My notes for portswigger labs on SQLI
 
 ---
 
+[View](SQLi%20labs.md#lab-sql-injection-union-attack-retrieving-data-from-other-tables--web-security-academy)
+
+
 ## 🧪 Labs
 
 | No. | Lab Title | Category | Difficulty | View |
